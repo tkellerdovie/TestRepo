@@ -5,6 +5,4 @@ Here is some text. Let's try and get the text to do what I want it to.
 
 Here's an additional amount of text. Let's push this to the Git Repo.
 
-I only want this to go on the staging branch.
-
-This can go on master.
+Here's the new file. Master and staging specific language has been moved.
